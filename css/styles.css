@@ -171,8 +171,8 @@ color: #04ff6d;
 }
 
 .aside img{
-    width: 210px;
-    height: 210px;
+    width: 250px;
+    height: 250px;
     grid-area: aside;
     margin: 90px 50px 20px 0px;
     border-radius: 60%;
@@ -212,15 +212,22 @@ color: #04ff6d;
     transform: scale(1.1);
 }
 
+.jura1{
+    position: absolute;
+    top: 30px;
+    right: 350px;
+}
+
 .frutas{
     position: absolute;
-    top: 170px;
+    top: 20px;
+    right: 30px;
 }
 
 .crew{
     position: absolute;
     top: 320px;
-    right: 230px;
+    right: 200px;
 }
 
                         /* QUIENES SOMOS . html  ESTILOS*/
